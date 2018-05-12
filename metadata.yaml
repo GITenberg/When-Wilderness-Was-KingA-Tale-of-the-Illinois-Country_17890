@@ -1,0 +1,28 @@
+_repo: When-Wilderness-Was-KingA-Tale-of-the-Illinois-Country_17890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illinois -- Fiction'
+- !lcc 'PS'
+title: 'When Wilderness Was King
+
+  A Tale of the Illinois Country'
+url: http://www.gutenberg.org/ebooks/17890
